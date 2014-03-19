@@ -34,6 +34,8 @@ public class MainActivity extends Activity {
             return true;
         }else{}
 
+        System.out.println("fg");
+
         return super.onOptionsItemSelected(item);
     }
 
