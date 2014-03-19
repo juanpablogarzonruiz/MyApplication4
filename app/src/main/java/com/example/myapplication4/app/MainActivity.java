@@ -32,9 +32,11 @@ public class MainActivity extends Activity {
         int id = item.getItemId();
         if (id == R.id.action_settings) {
             return true;
-        }else{}
+        }else{
+            System.out.println("nada");
+        }
 
-        System.out.println("fg dd");
+        System.out.println("fg dd smmns y qu er eriir en elc ");
 
         return super.onOptionsItemSelected(item);
     }
