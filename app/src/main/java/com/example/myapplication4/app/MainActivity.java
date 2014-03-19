@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
             System.out.println("nada");
         }
 
-        System.out.println("fg dd smmns y qu er eriir en elc ");
+        System.out.println("solo se puede asi ");
 
         return super.onOptionsItemSelected(item);
     }
