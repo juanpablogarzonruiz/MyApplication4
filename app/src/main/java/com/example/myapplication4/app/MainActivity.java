@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
             System.out.println("nada");
         }
 
-        System.out.println("solo se puede asi ");
+        System.out.println("solo se puede asi xx");
 
         return super.onOptionsItemSelected(item);
     }
