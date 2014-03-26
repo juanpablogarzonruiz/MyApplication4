@@ -17,6 +17,7 @@ public class MainActivity extends Activity {
 
     @Override
     //nuevo cambio
+    //es la fel
     public boolean onCreateOptionsMenu(Menu menu) {
         
         // Inflate the menu; this adds items to the action bar if it is present.
@@ -36,7 +37,7 @@ public class MainActivity extends Activity {
             System.out.println("nada");
         }
 
-        System.out.println("solo se puede asi xx");
+
 
         return super.onOptionsItemSelected(item);
     }
